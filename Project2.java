@@ -4,7 +4,7 @@ public class Project2 {
 	
 	public static void main(String[] args){
 		LinkedList myList1 = new LinkedList();//From lab 16 for append creating  linked list
-		String myFile="Project1.txt"; //The File name 
+		String myFile="Project2.txt"; //The File name 
 		String []StoreInArray =new String [17];
 
 		//------------------First fill the array. ----------------------
