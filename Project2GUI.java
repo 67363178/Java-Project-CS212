@@ -4,7 +4,7 @@ import java.awt.GridLayout;
 import java.awt.TextArea;
 
 import javax.swing.JFrame;
-public class Project1GUI extends JFrame{
+public class Project2GUI extends JFrame{
 	private int width;
 	private int length;
 	private String title;
@@ -19,13 +19,13 @@ public class Project1GUI extends JFrame{
 
 
 //Constructors 
-	public Project1GUI(){
+	public Project2GUI(){
 		width=500;
 		length=500;
-		title="Project1GUI";
+		title="Project2GUI";
 	}
 
-	public Project1GUI(int myw, int myl, String myt){
+	public Project2GUI(int myw, int myl, String myt){
 		width=myw;
 		length=myl;
 		title=myt;
